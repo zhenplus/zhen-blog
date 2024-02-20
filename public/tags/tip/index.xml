@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tip on 圳里</title>
+    <link>https://example.org/tags/tip/</link>
+    <description>Recent content in tip on 圳里</description>
+    <image>
+      <title>圳里</title>
+      <url>https://example.org/papermod-cover.png</url>
+      <link>https://example.org/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Jul 2022 00:47:22 +0800</lastBuildDate>
+    <atom:link href="https://example.org/tags/tip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo部署后css失效的问题</title>
+      <link>https://example.org/blog/2022/hugo%E9%83%A8%E7%BD%B2css%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Wed, 13 Jul 2022 00:47:22 +0800</pubDate>
+      <guid>https://example.org/blog/2022/hugo%E9%83%A8%E7%BD%B2css%E9%97%AE%E9%A2%98/</guid>
+      <description>&lt;p&gt;使用hugo有几天了，从最开始的一团糟到现在算是能够完整部署到服务器端而不出现问题了。结果虽然是好的，但这个过程其实挺折腾，毕竟好几个睡不着的晚上都在跟自己并不懂的事情做斗争，一遍又一遍尝试。唉，不能系统学习前端知识就是这样的。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

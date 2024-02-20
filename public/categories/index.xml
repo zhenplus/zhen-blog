@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on 圳里</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on 圳里</description>
+    <image>
+      <title>圳里</title>
+      <url>https://example.org/papermod-cover.png</url>
+      <link>https://example.org/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jul 2022 00:50:10 +0800</lastBuildDate>
+    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://example.org/categories/blog/</link>
+      <pubDate>Mon, 25 Jul 2022 00:50:10 +0800</pubDate>
+      <guid>https://example.org/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>笔记</title>
+      <link>https://example.org/categories/%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Mon, 11 Jul 2022 16:49:38 +0800</pubDate>
+      <guid>https://example.org/categories/%E7%AC%94%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>书单</title>
+      <link>https://example.org/categories/%E4%B9%A6%E5%8D%95/</link>
+      <pubDate>Mon, 11 Jul 2022 01:53:59 +0800</pubDate>
+      <guid>https://example.org/categories/%E4%B9%A6%E5%8D%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>gallery</title>
+      <link>https://example.org/categories/gallery/</link>
+      <pubDate>Fri, 08 Jul 2022 14:48:56 +0800</pubDate>
+      <guid>https://example.org/categories/gallery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tips</title>
+      <link>https://example.org/categories/tips/</link>
+      <pubDate>Fri, 08 Jul 2022 14:48:56 +0800</pubDate>
+      <guid>https://example.org/categories/tips/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

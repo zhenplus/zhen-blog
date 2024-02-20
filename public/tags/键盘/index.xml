@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>键盘 on 圳里</title>
+    <link>https://example.org/tags/%E9%94%AE%E7%9B%98/</link>
+    <description>Recent content in 键盘 on 圳里</description>
+    <image>
+      <title>圳里</title>
+      <url>https://example.org/papermod-cover.png</url>
+      <link>https://example.org/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Jul 2022 01:44:19 +0800</lastBuildDate>
+    <atom:link href="https://example.org/tags/%E9%94%AE%E7%9B%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>买了一把新键盘，又看到了更漂亮的</title>
+      <link>https://example.org/blog/2022/%E4%B9%B0%E4%BA%86%E4%B8%80%E6%8A%8A%E6%96%B0%E9%94%AE%E7%9B%98/</link>
+      <pubDate>Thu, 21 Jul 2022 01:44:19 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E4%B9%B0%E4%BA%86%E4%B8%80%E6%8A%8A%E6%96%B0%E9%94%AE%E7%9B%98/</guid>
+      <description>&lt;p&gt;因为之前的键盘实在是用腻了，所有决定把手里这几把键盘都卖掉，换新的。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一把键盘</title>
+      <link>https://example.org/blog/2022/%E4%B8%80%E6%8A%8A%E9%94%AE%E7%9B%98/</link>
+      <pubDate>Mon, 11 Jul 2022 01:38:49 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E4%B8%80%E6%8A%8A%E9%94%AE%E7%9B%98/</guid>
+      <description>&lt;p&gt;有段日子没有换一把键盘了。现在用的是CIY68+BOX白，才一年壳就发黄了，轴体也没那么顺滑了。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

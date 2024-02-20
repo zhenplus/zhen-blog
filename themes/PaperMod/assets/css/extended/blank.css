@@ -1,0 +1,106 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+.list{
+    background-color: rgb(255, 255, 255);
+}
+.post-entry{
+    border: 1px solid rgb(200, 200, 200);
+}
+
+:root {
+    --post-entry:  rgb(80, 80, 80);
+}
+
+.dark{
+    --post-entry:  rgb(194, 194, 194);
+}
+
+
+.first-entry{
+    margin:0;
+    min-height:250px;
+}
+.first-entry .entry-header h1{
+    font-size: 30px;
+}
+.social-icons a svg{
+    height: 20px;
+    width: 20px;
+}
+.entry-header h2{
+    font-size: 18px;
+}
+.post-title{
+    font-size: 26px;
+    margin: 15px 0;
+}
+.post-content h1{
+    font-size: 26px;
+}
+.post-content h2{
+    font-size: 22px;
+}
+.post-content h3{
+    font-size: 18px;
+}
+.post-content h4{
+    font-size: 16px;
+}
+.post-content h5{
+    font-size: 14px;
+}
+.post-content h6{
+    font-size: 14px;
+}
+.post-content{
+    font-size: 16px;
+    text-align:justify;
+    line-height: 1.9;
+    color:var(--post-entry)
+    
+}
+.toc{
+    font-size: 16px;
+    border: none;
+}
+.paginav{
+    background: none;
+    border: none;
+}
+.paginav .prev, .paginav .next{
+    padding: 5px 20px;
+    font-size: 16px;
+    width: auto;
+}
+
+
+.archive-entry-title{
+    font-size: 16px;
+}
+.terms-tags a{
+    background-color: var(--border);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 5px 15px;
+}
+
+#searchbox input{
+    border: 1px solid var(--tertiary);
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 25px;
+}
+#searchResults{
+    font-size: 16px;
+
+}
+#searchResults li{
+    padding: 10px 25px; 
+}
+
+.footer{
+    font-size: 14px;
+}

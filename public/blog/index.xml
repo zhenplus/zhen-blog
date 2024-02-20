@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BLOGS on 圳里</title>
+    <link>https://example.org/blog/</link>
+    <description>Recent content in BLOGS on 圳里</description>
+    <image>
+      <title>圳里</title>
+      <url>https://example.org/papermod-cover.png</url>
+      <link>https://example.org/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jul 2022 00:50:10 +0800</lastBuildDate>
+    <atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>不可预期的投入</title>
+      <link>https://example.org/blog/2022/%E4%B8%8D%E5%8F%AF%E9%A2%84%E6%9C%9F%E7%9A%84%E6%8A%95%E5%85%A5/</link>
+      <pubDate>Mon, 25 Jul 2022 00:50:10 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E4%B8%8D%E5%8F%AF%E9%A2%84%E6%9C%9F%E7%9A%84%E6%8A%95%E5%85%A5/</guid>
+      <description>&lt;p&gt;前两天晚上睡不着，又自己盘算了一下自己的债务情况，发现后面的6个月负债还是比较重的。一次又一次的借款，累计金额也是不小了，强弩之末，撑不了太久了，得给自己找个出路。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>自救行动</title>
+      <link>https://example.org/blog/2022/%E8%87%AA%E6%95%91%E8%A1%8C%E5%8A%A8/</link>
+      <pubDate>Fri, 22 Jul 2022 11:31:32 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E8%87%AA%E6%95%91%E8%A1%8C%E5%8A%A8/</guid>
+      <description>&lt;p&gt;频道已经在很长一段时间内陷入增长停滞了，最近一段时间还在疯狂掉粉。这是很可怕的。不管基于什么样的原因，事实就是我眼看着其他频道越做越大，而自己始终在原地踏步，所以现在只能拼命自救了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>买了一把新键盘，又看到了更漂亮的</title>
+      <link>https://example.org/blog/2022/%E4%B9%B0%E4%BA%86%E4%B8%80%E6%8A%8A%E6%96%B0%E9%94%AE%E7%9B%98/</link>
+      <pubDate>Thu, 21 Jul 2022 01:44:19 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E4%B9%B0%E4%BA%86%E4%B8%80%E6%8A%8A%E6%96%B0%E9%94%AE%E7%9B%98/</guid>
+      <description>&lt;p&gt;因为之前的键盘实在是用腻了，所有决定把手里这几把键盘都卖掉，换新的。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>换手机的打算</title>
+      <link>https://example.org/blog/2022/%E6%8D%A2%E6%89%8B%E6%9C%BA%E7%9A%84%E6%89%93%E7%AE%97/</link>
+      <pubDate>Tue, 19 Jul 2022 23:42:26 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E6%8D%A2%E6%89%8B%E6%9C%BA%E7%9A%84%E6%89%93%E7%AE%97/</guid>
+      <description>&lt;p&gt;手里这部oppo find x3 pro已经用了一年多了，按照习惯，该是换手机的时候了。于是经过几天的纠结，决定换个redmi note 11 t pro试试。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>失眠</title>
+      <link>https://example.org/blog/2022/%E5%A4%B1%E7%9C%A0/</link>
+      <pubDate>Fri, 15 Jul 2022 11:37:34 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E5%A4%B1%E7%9C%A0/</guid>
+      <description>&lt;p&gt;前段时间又开始经常失眠。本来几个月前已经慢慢调整睡眠时间，睡眠情况有改善了。只是近来睡前喜欢玩游戏，搞得精神亢奋，迟迟不能入眠。不能睡，慢慢就不想睡了，常常3点钟才不知不觉睡过去。最离谱的一次是前几日，自己捱到了5点钟才迷糊过去。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugo部署后css失效的问题</title>
+      <link>https://example.org/blog/2022/hugo%E9%83%A8%E7%BD%B2css%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Wed, 13 Jul 2022 00:47:22 +0800</pubDate>
+      <guid>https://example.org/blog/2022/hugo%E9%83%A8%E7%BD%B2css%E9%97%AE%E9%A2%98/</guid>
+      <description>&lt;p&gt;使用hugo有几天了，从最开始的一团糟到现在算是能够完整部署到服务器端而不出现问题了。结果虽然是好的，但这个过程其实挺折腾，毕竟好几个睡不着的晚上都在跟自己并不懂的事情做斗争，一遍又一遍尝试。唉，不能系统学习前端知识就是这样的。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>模板写作法</title>
+      <link>https://example.org/blog/2022/%E6%A8%A1%E6%9D%BF%E5%86%99%E4%BD%9C%E6%B3%95/</link>
+      <pubDate>Mon, 11 Jul 2022 16:49:38 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E6%A8%A1%E6%9D%BF%E5%86%99%E4%BD%9C%E6%B3%95/</guid>
+      <description>&lt;aside&gt;
+💡 模板只是起到规划文章走向的向导作用。在使用模板的基础上，在填充内容、词汇选择、表现方式以及文章体裁等方面再下些功夫，作者的个性会自然而然地散发出来，从而创作出扣人心弦的文章。
+&lt;/aside&gt;
+&lt;aside&gt;
+💡 写文章时不用模板，就好比没有设计图就想盖房子。若想建造坚固又完整的房子，设计图是必不可少的。
+&lt;/aside&gt;</description>
+    </item>
+    <item>
+      <title>设计书籍清单</title>
+      <link>https://example.org/blog/2022/%E8%AE%BE%E8%AE%A1%E4%B9%A6%E7%B1%8D%E6%B8%85%E5%8D%95/</link>
+      <pubDate>Mon, 11 Jul 2022 01:53:59 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E8%AE%BE%E8%AE%A1%E4%B9%A6%E7%B1%8D%E6%B8%85%E5%8D%95/</guid>
+      <description>&lt;p&gt;鬼知道会不会看的书单。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一把键盘</title>
+      <link>https://example.org/blog/2022/%E4%B8%80%E6%8A%8A%E9%94%AE%E7%9B%98/</link>
+      <pubDate>Mon, 11 Jul 2022 01:38:49 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E4%B8%80%E6%8A%8A%E9%94%AE%E7%9B%98/</guid>
+      <description>&lt;p&gt;有段日子没有换一把键盘了。现在用的是CIY68+BOX白，才一年壳就发黄了，轴体也没那么顺滑了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugo初体验</title>
+      <link>https://example.org/blog/2022/hugo%E5%88%9D%E4%BD%93%E9%AA%8C/</link>
+      <pubDate>Sun, 10 Jul 2022 03:00:30 +0800</pubDate>
+      <guid>https://example.org/blog/2022/hugo%E5%88%9D%E4%BD%93%E9%AA%8C/</guid>
+      <description>&lt;p&gt;玩博客这么多年了，第一次用&lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt;这种需要手动敲点代码的框架类型。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CloudFlare与https的一些注意事项</title>
+      <link>https://example.org/blog/2022/%E8%B7%9Fcloudflare%E6%9C%89%E5%85%B3%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B%E5%84%BF/</link>
+      <pubDate>Fri, 08 Jul 2022 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E8%B7%9Fcloudflare%E6%9C%89%E5%85%B3%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B%E5%84%BF/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;h3 id=&#34;一宝塔面板&#34;&gt;一、宝塔面板&lt;/h3&gt;
+&lt;p&gt;宝塔面板的web服务是python搭建的，不支持cloudflare的CDN，代理域名需要&lt;code&gt;点掉云盾&lt;/code&gt;，不使用cf的CDN，等待缓存完成就可以了正常访问了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>使用CloudFlare开启免费自定义域名邮箱</title>
+      <link>https://example.org/blog/2022/%E4%BD%BF%E7%94%A8cloudflare%E5%BC%80%E5%90%AF%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/</link>
+      <pubDate>Fri, 08 Jul 2022 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E4%BD%BF%E7%94%A8cloudflare%E5%BC%80%E5%90%AF%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/</guid>
+      <description>&lt;p&gt;偶然发现cloudflare提供了&lt;code&gt;Beta&lt;/code&gt;版本的电子邮件功能，目前还是免费的。简单来说就是只要你把域名交给了cloudflare解析，那么就可以生成自己域名为后缀的邮箱了，如域名：&lt;code&gt;myname.com&lt;/code&gt;，那么邮箱就可以为&lt;code&gt;DIY@myname.com&lt;/code&gt;，DIY处任意填写。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>博客迁移那些事儿</title>
+      <link>https://example.org/blog/2022/%E8%BF%99%E4%BA%9B%E5%B9%B4%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB/</link>
+      <pubDate>Fri, 08 Jul 2022 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E8%BF%99%E4%BA%9B%E5%B9%B4%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB/</guid>
+      <description>&lt;p&gt;第一次接触独立博客这件事还是2014年吧，偶然间在网易云课堂看见ID为&lt;em&gt;&lt;strong&gt;三乐大掌柜&lt;/strong&gt;&lt;/em&gt;的人做了几个视频，介绍如何用虚拟主机搭建wordpress博客，很欢喜，正好那个时候就很喜欢写日志，于是就跳进了独立博客这个大坑。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>生活中没有那么多奇迹</title>
+      <link>https://example.org/blog/2022/%E7%8E%B0%E5%AE%9E%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A4%9A%E5%A5%87%E8%BF%B9/</link>
+      <pubDate>Fri, 08 Apr 2022 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E7%8E%B0%E5%AE%9E%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A4%9A%E5%A5%87%E8%BF%B9/</guid>
+      <description>&lt;p&gt;本着可能不太好看的想法去看的《奇迹·笨小孩》，果然不让我失望。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>观 《蜘蛛侠·英雄无归》</title>
+      <link>https://example.org/blog/2022/%E8%A7%82-%E8%9C%98%E8%9B%9B%E4%BE%A0%E8%8B%B1%E9%9B%84%E6%97%A0%E5%BD%92/</link>
+      <pubDate>Tue, 08 Mar 2022 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E8%A7%82-%E8%9C%98%E8%9B%9B%E4%BE%A0%E8%8B%B1%E9%9B%84%E6%97%A0%E5%BD%92/</guid>
+      <description>&lt;p&gt;这部片子，感觉很怪，故事的逻辑不是很好理解了。我没有看新蜘蛛侠前两部是什么设定，也许彼得·帕克就是个惹麻烦加擦屁股的人设？两个逻辑我实在理解不了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>难捱的一生</title>
+      <link>https://example.org/blog/2022/%E9%9A%BE%E6%8D%B1%E7%9A%84%E4%B8%80%E7%94%9F/</link>
+      <pubDate>Sun, 02 Jan 2022 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E9%9A%BE%E6%8D%B1%E7%9A%84%E4%B8%80%E7%94%9F/</guid>
+      <description>&lt;p&gt;仍记得小学时候，有一次嘉宾来听课，我上讲台去默写课外拓展学到的鲁迅的诗。老师给我安排的便是“寄意寒星荃不察，我以我血荐轩辕”这一句。但我刚刚在体育课上疯玩了一通，下半句死活想不起来，整个人僵在了讲台上，只觉得踢球未干的汗水似乎又多了些许，凉凉的。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>漂流中的2021</title>
+      <link>https://example.org/blog/2022/%E6%BC%82%E6%B5%81%E4%B8%AD%E7%9A%842021/</link>
+      <pubDate>Sat, 01 Jan 2022 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2022/%E6%BC%82%E6%B5%81%E4%B8%AD%E7%9A%842021/</guid>
+      <description>&lt;p&gt;如果用一个词来形容今年的状态，可能我会用漂流这个词。可如果要再准确点，那大概是用手拨水的漂流：试图掌控方向，但总归是一种放任的状态。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>被动社交</title>
+      <link>https://example.org/blog/2019-2021/%E8%A2%AB%E5%8A%A8%E7%A4%BE%E4%BA%A4%E7%9A%84%E6%88%91/</link>
+      <pubDate>Fri, 04 Jun 2021 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E8%A2%AB%E5%8A%A8%E7%A4%BE%E4%BA%A4%E7%9A%84%E6%88%91/</guid>
+      <description>&lt;p&gt;现在是半夜一点钟。事实上，我现在应该睡下了，可我依然觉得要敲点什么出来。在沉寂了这么久之后，在看了几本书以后，在和朋友聊了几句之后。这也许不是个好时候，可是有什么关系呢。在回到上班的状态前，我仍是自由身啊。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我的2020</title>
+      <link>https://example.org/blog/2019-2021/%E6%88%91%E7%9A%842020%E4%B8%8A/</link>
+      <pubDate>Thu, 31 Dec 2020 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E6%88%91%E7%9A%842020%E4%B8%8A/</guid>
+      <description>&lt;p&gt;我的2020（上）&lt;/p&gt;
+&lt;p&gt;2020是魔幻的一年，谁想2021更是魔幻，而这场魔幻会持续到何时尚未可知。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一些决定</title>
+      <link>https://example.org/blog/2019-2021/%E4%B8%80%E4%BA%9B%E5%86%B3%E5%AE%9A/</link>
+      <pubDate>Wed, 08 Jul 2020 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E4%B8%80%E4%BA%9B%E5%86%B3%E5%AE%9A/</guid>
+      <description>&lt;h4 id=&#34;我要做up&#34;&gt;我要做UP&lt;/h4&gt;
+&lt;p&gt;今天醒来第一件事是摸摸手机，然后再次翻看了一下昨晚没有决定的那几个麦克风。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>书单</title>
+      <link>https://example.org/blog/2019-2021/2021%E4%B9%A6%E5%8D%95/</link>
+      <pubDate>Wed, 08 Jul 2020 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/2021%E4%B9%A6%E5%8D%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>完美邮箱</title>
+      <link>https://example.org/blog/2019-2021/%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C88%E9%82%AE%E7%AE%B1%E6%9C%89%E7%82%B9%E4%B8%9C%E8%A5%BF/</link>
+      <pubDate>Wed, 08 Jul 2020 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C88%E9%82%AE%E7%AE%B1%E6%9C%89%E7%82%B9%E4%B8%9C%E8%A5%BF/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/DolgenLyu/imgcloud/master/007S8ZIlly1gi36gbnawpj318g0go1cm.jpg&#34; alt=&#34;image-20200825171833805&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;万万没想到，波澜不惊的邮箱领域竟然也冒出了一个新玩家。8月8日，完美世界，没错就是那个要代理steam国服的完美世界宣布正式推出88品牌下第一款服务，88完美邮箱。并于几天前登陆行业明灯罗老师的直播间卖定制邮箱靓号，并且全部秒空。这通操作不得不让人对完美世界刮目相看。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>局外人</title>
+      <link>https://example.org/blog/2019-2021/%E6%88%91%E4%BB%AC%E7%BB%88%E6%98%AF%E5%B1%80%E5%A4%96%E4%BA%BA/</link>
+      <pubDate>Wed, 08 Jul 2020 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E6%88%91%E4%BB%AC%E7%BB%88%E6%98%AF%E5%B1%80%E5%A4%96%E4%BA%BA/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;对于这个世界来说，对于所有自己以外的人来说，我们都始终是一个局外人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这是我对《局外人》的简短书评，就是那篇荒谬的小说。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>游戏</title>
+      <link>https://example.org/blog/2019-2021/%E6%B8%B8%E6%88%8F/</link>
+      <pubDate>Wed, 08 Jul 2020 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E6%B8%B8%E6%88%8F/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;D:%5chugo%5czhen.media%5ccontent%5cpost%5cblog%5c2019-2021%5cassets%5c007S8ZIlly1ghidbrrlljj30xc0citdq.jpg&#34; alt=&#34;游戏&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;玩过的一点游戏。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>猫和友人帐</title>
+      <link>https://example.org/blog/2019-2021/%E7%8C%AB%E5%92%8C%E5%8F%8B%E4%BA%BA%E5%B8%90/</link>
+      <pubDate>Wed, 08 Jul 2020 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E7%8C%AB%E5%92%8C%E5%8F%8B%E4%BA%BA%E5%B8%90/</guid>
+      <description>&lt;p&gt;羡慕夏目，谁能不呢。&lt;/p&gt;
+&lt;p&gt;大概是年纪大了，不再那么童真，所以刷动漫获得治愈感的同时，无时无刻不在羡慕着。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>要勇敢</title>
+      <link>https://example.org/blog/2019-2021/%E8%A6%81%E5%8B%87%E6%95%A2/</link>
+      <pubDate>Wed, 08 Jul 2020 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E8%A6%81%E5%8B%87%E6%95%A2/</guid>
+      <description>&lt;h3 id=&#34;一&#34;&gt;（一）&lt;/h3&gt;
+&lt;p&gt;很久没有更新视频了，很想把最近的状态做一期vlog，但又觉得终究没人喜欢吧。遂迟迟不愿动。&lt;/p&gt;
+&lt;p&gt;更何况，我所有的拍摄器材全都卖掉了，如今只剩下a6000和手机，就更不愿动了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>路由器无线桥接</title>
+      <link>https://example.org/blog/2019-2021/%E6%97%A0%E7%BA%BF%E8%BF%9E%E6%8E%A5%E5%AE%9E%E7%8E%B0%E8%B7%AF%E7%94%B1%E4%B8%AD%E7%BB%A7%E7%9A%84%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Wed, 08 Jul 2020 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E6%97%A0%E7%BA%BF%E8%BF%9E%E6%8E%A5%E5%AE%9E%E7%8E%B0%E8%B7%AF%E7%94%B1%E4%B8%AD%E7%BB%A7%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;p&gt;刚回家的时候老路由器有点抽风，过年那几天更是频繁自动重启，一天多达五次。算起来它已经服役近乎六年，对于几乎全年无休的它而言有些故障也不奇怪。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>锚点</title>
+      <link>https://example.org/blog/2019-2021/%E9%94%9A%E7%82%B9/</link>
+      <pubDate>Wed, 08 Jul 2020 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E9%94%9A%E7%82%B9/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/DolgenLyu/imgcloud/master/007S8ZIlly1ghgy51ebdrj32800u0x1p.jpg&#34; alt=&#34;锚点&#34;  /&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;偏离航道&#34;&gt;偏离航道&lt;/h3&gt;
+&lt;p&gt;大概三个月前递上离职申请的时候，我也没想过如今开始新一段生活会如此困难，大概这就是裸辞的代价。&lt;/p&gt;
+&lt;p&gt;最近一直在刷招聘信息，然迟迟找不到合适的，想做的工作。如果用一种外人最常说的话来形容，大概是自己眼高手低。能力上确有欠缺，但找不到自己想做的工作也却是一种悲哀。&lt;/p&gt;
+&lt;p&gt;漫天的招聘信息，均是电商运营，直播运营。苦笑。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我的2019</title>
+      <link>https://example.org/blog/2019-2021/%E6%88%91%E7%9A%842019/</link>
+      <pubDate>Tue, 31 Dec 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E6%88%91%E7%9A%842019/</guid>
+      <description>&lt;p&gt;无法免俗的开头，时间可真快。可不同的是，往后的日子，只会过得更快，更快，就好像被人提了速，再也慢不下来了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>私域流量</title>
+      <link>https://example.org/blog/2019-2021/20191126%E7%A7%81%E5%9F%9F%E8%AE%A4%E7%9F%A5/</link>
+      <pubDate>Tue, 26 Nov 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/20191126%E7%A7%81%E5%9F%9F%E8%AE%A4%E7%9F%A5/</guid>
+      <description>&lt;p&gt;互联网行业今年最火的概念，要数“私域流量”。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>位置的可能</title>
+      <link>https://example.org/blog/2019-2021/191023%E6%9C%AA%E7%9F%A5%E7%9A%84%E5%8F%AF%E8%83%BD/</link>
+      <pubDate>Wed, 23 Oct 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/191023%E6%9C%AA%E7%9F%A5%E7%9A%84%E5%8F%AF%E8%83%BD/</guid>
+      <description>&lt;p&gt;深夜。不眠。&lt;/p&gt;
+&lt;p&gt;最近食欲不佳，更多的是因为心情不好。心情不好，则是因为生活不满意。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>深夜日记</title>
+      <link>https://example.org/blog/2019-2021/191017%E6%B7%B1%E5%A4%9C%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Thu, 17 Oct 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/191017%E6%B7%B1%E5%A4%9C%E6%97%A5%E8%AE%B0/</guid>
+      <description>&lt;p&gt;已经是零点多，往天这个时候早已睡下。毕竟已经是上班的人，不能再任性熬夜。可今天就是不想睡，心情莫名很down，也不是很清楚为什么。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>日子生长</title>
+      <link>https://example.org/blog/2019-2021/191016%E6%97%A5%E5%AD%90%E4%BC%9A%E8%87%AA%E5%B7%B1%E9%95%BF%E5%87%BA%E6%9D%A5/</link>
+      <pubDate>Wed, 16 Oct 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/191016%E6%97%A5%E5%AD%90%E4%BC%9A%E8%87%AA%E5%B7%B1%E9%95%BF%E5%87%BA%E6%9D%A5/</guid>
+      <description>&lt;p&gt;“日子会自己长出来”。&lt;/p&gt;
+&lt;p&gt;《看见》里，前往汶川后无所适从的柴静这样写到。我也觉得如此。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>生活的迷失</title>
+      <link>https://example.org/blog/2019-2021/191001%E7%94%9F%E6%B4%BB%E5%A5%BD%E5%9D%8F%E7%94%B1%E4%BD%A0/</link>
+      <pubDate>Tue, 01 Oct 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/191001%E7%94%9F%E6%B4%BB%E5%A5%BD%E5%9D%8F%E7%94%B1%E4%BD%A0/</guid>
+      <description>&lt;p&gt;生活的残酷就在于，太多事总是突如其来，毫无准备。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>无处安放</title>
+      <link>https://example.org/blog/2019-2021/190925%E8%BF%B7%E8%8C%AB%E4%BB%A5%E5%8F%8A%E6%97%A0%E5%A4%84%E5%AE%89%E6%94%BE/</link>
+      <pubDate>Wed, 25 Sep 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190925%E8%BF%B7%E8%8C%AB%E4%BB%A5%E5%8F%8A%E6%97%A0%E5%A4%84%E5%AE%89%E6%94%BE/</guid>
+      <description>&lt;p&gt;我从来不用迷茫这个词形容自己，因为我一直认为那是弱者的借口，强辩的理由。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新闻记者</title>
+      <link>https://example.org/blog/2019-2021/190918%E5%AF%B9%E6%96%B0%E9%97%BB%E4%BB%8E%E4%B8%9A%E8%80%85%E7%9A%84%E5%8F%88%E4%B8%80%E7%82%B9%E6%80%9D%E8%80%83/</link>
+      <pubDate>Wed, 18 Sep 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190918%E5%AF%B9%E6%96%B0%E9%97%BB%E4%BB%8E%E4%B8%9A%E8%80%85%E7%9A%84%E5%8F%88%E4%B8%80%E7%82%B9%E6%80%9D%E8%80%83/</guid>
+      <description>&lt;p&gt;今天公司来了个市电视台的记者，欲采访我们老板。我被叫去拍些素材留用，得以见识。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>听雨天</title>
+      <link>https://example.org/blog/2019-2021/_190409%E5%90%AC%E9%9B%A8%E5%A4%A9/</link>
+      <pubDate>Mon, 01 Jul 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/_190409%E5%90%AC%E9%9B%A8%E5%A4%A9/</guid>
+      <description>&lt;p&gt;（一）&lt;/p&gt;
+&lt;p&gt;鼠标丢了。&lt;/p&gt;
+&lt;p&gt;完全没留意到，它是怎么消失的。记忆中，一直会儿嫌弃它耗电，一会儿嫌弃它蓝牙不好用，而且还时常把它摔到。于是，它就这么不知不觉消失了。现在，只剩下一个无线接收器插在笔记本的USB口上了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>游戏之于生活</title>
+      <link>https://example.org/blog/2019-2021/%E9%A5%A5%E8%8D%92/</link>
+      <pubDate>Mon, 01 Jul 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E9%A5%A5%E8%8D%92/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/DolgenLyu/imgcloud/master/007S8ZIlly1gh8sf2jys2j32800u04qr.jpg&#34; alt=&#34;饥荒&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;大概三年前第一次接触饥荒这个游戏，还是从一个老学长那里听来的。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>肺炎新年</title>
+      <link>https://example.org/blog/2019-2021/%E8%82%BA%E7%82%8E%E6%96%B0%E5%B9%B4/</link>
+      <pubDate>Mon, 01 Jul 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E8%82%BA%E7%82%8E%E6%96%B0%E5%B9%B4/</guid>
+      <description>&lt;p&gt;这是一个不安的新年，对于全中国而言，对于湖北、武汉而言则远不止不安二字能概括，我甚至想不到一个更合适的词汇来形容。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>超前消费</title>
+      <link>https://example.org/blog/2019-2021/%E5%85%B3%E4%BA%8E%E8%B6%85%E5%89%8D%E6%B6%88%E8%B4%B9/</link>
+      <pubDate>Mon, 01 Jul 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E5%85%B3%E4%BA%8E%E8%B6%85%E5%89%8D%E6%B6%88%E8%B4%B9/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/DolgenLyu/imgcloud/master/007S8ZIlly1ghdnjx1i46j32800u0b2a.jpg&#34; alt=&#34;超前消费&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;我是个习惯于超前消费的人，从很早以前就是了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>乐队的夏天</title>
+      <link>https://example.org/blog/2019-2021/190623%E6%B0%B8%E8%BF%9C%E5%B9%B4%E8%BD%BB%E6%B0%B8%E8%BF%9C%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6/</link>
+      <pubDate>Sun, 23 Jun 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190623%E6%B0%B8%E8%BF%9C%E5%B9%B4%E8%BD%BB%E6%B0%B8%E8%BF%9C%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6/</guid>
+      <description>&lt;p&gt;在看《乐队的夏天》，很舒服。&lt;/p&gt;
+&lt;p&gt;你可以不必懂音乐，不必懂旋律，甚至可以一无所知，哪怕是对自己。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>水浒故事</title>
+      <link>https://example.org/blog/2019-2021/190530%E8%A7%82%E6%B0%B4%E6%B5%92/</link>
+      <pubDate>Thu, 30 May 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190530%E8%A7%82%E6%B0%B4%E6%B5%92/</guid>
+      <description>&lt;p&gt;老话讲，“少不看水浒，老不看西游”。并不知其中缘由，却也是始终未能一探“水浒”这部名著。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>《致自己》</title>
+      <link>https://example.org/blog/2019-2021/190516%E7%B9%81%E5%8D%8E%E4%B9%8B%E5%90%8E%E7%BB%88%E5%B0%86%E7%8B%AC%E8%A1%8C/</link>
+      <pubDate>Thu, 16 May 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190516%E7%B9%81%E5%8D%8E%E4%B9%8B%E5%90%8E%E7%BB%88%E5%B0%86%E7%8B%AC%E8%A1%8C/</guid>
+      <description>&lt;p&gt;致自己。&lt;/p&gt;
+&lt;p&gt;这歌，听得上瘾。大概因为恰好是处在那么个时候吧。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>是谁在仰望命运</title>
+      <link>https://example.org/blog/2019-2021/190501%E8%B0%81%E5%9C%A8%E4%BB%B0%E6%9C%9B%E7%9D%80%E5%91%BD%E8%BF%90/</link>
+      <pubDate>Wed, 01 May 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190501%E8%B0%81%E5%9C%A8%E4%BB%B0%E6%9C%9B%E7%9D%80%E5%91%BD%E8%BF%90/</guid>
+      <description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;大学毕业。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>人际关系</title>
+      <link>https://example.org/blog/2019-2021/190411%E4%BA%BA%E9%99%85%E7%9A%84%E5%B0%8F%E8%80%83%E9%AA%8C/</link>
+      <pubDate>Thu, 11 Apr 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190411%E4%BA%BA%E9%99%85%E7%9A%84%E5%B0%8F%E8%80%83%E9%AA%8C/</guid>
+      <description>&lt;p&gt;自认是个比较冷峻的人，人际关系上更是一贯如此。&lt;/p&gt;
+&lt;p&gt;不能说人际交际不在行，实在是一直以来不愿花费过多精力去经营。在我心中，刻意维护的人际多以利益往来为牵绊，脆弱不堪。我崇尚的，始终是自然而然的交往过程，没有目的，没有利益。单纯依靠彼此之间的契合或者认同建立的人际关系，我觉得质量要高得多。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>不饱满生活</title>
+      <link>https://example.org/blog/2019-2021/190407%E4%B8%8D%E9%A5%B1%E6%BB%A1%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Sun, 07 Apr 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190407%E4%B8%8D%E9%A5%B1%E6%BB%A1%E7%94%9F%E6%B4%BB/</guid>
+      <description>&lt;p&gt;假期结束，明天又要开始三小时通勤的上班日常。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>健忘症</title>
+      <link>https://example.org/blog/2019-2021/190406%E6%88%91%E6%82%A3%E4%BA%86%E5%81%A5%E5%BF%98%E7%97%87/</link>
+      <pubDate>Sat, 06 Apr 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190406%E6%88%91%E6%82%A3%E4%BA%86%E5%81%A5%E5%BF%98%E7%97%87/</guid>
+      <description>&lt;p&gt;“时人各扫门前雪，何管他人瓦上霜”，中国俗语类此，多如牛毛。一以言之：别人好坏，与我何干；如非使有，无非羡慕抑或嫉妒罢了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>备案新体验</title>
+      <link>https://example.org/blog/2019-2021/190904-9102%E5%B9%B4%E5%A4%87%E6%A1%88%E6%90%AC%E8%BF%81%E6%96%B0%E4%BD%93%E9%AA%8C/</link>
+      <pubDate>Mon, 01 Apr 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190904-9102%E5%B9%B4%E5%A4%87%E6%A1%88%E6%90%AC%E8%BF%81%E6%96%B0%E4%BD%93%E9%AA%8C/</guid>
+      <description>&lt;p&gt;服务器要在十月到期了，搬瓦工的50￥套餐本来也不算贵了，2H1G，25GB，500mb/s。还要什么自行车。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>自由</title>
+      <link>https://example.org/blog/2019-2021/190401%E9%87%91%E9%92%B1%E8%AF%9A%E5%8F%AF%E8%B4%B5%E8%87%AA%E7%94%B1%E4%BB%B7%E6%9B%B4%E9%AB%98/</link>
+      <pubDate>Mon, 01 Apr 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190401%E9%87%91%E9%92%B1%E8%AF%9A%E5%8F%AF%E8%B4%B5%E8%87%AA%E7%94%B1%E4%BB%B7%E6%9B%B4%E9%AB%98/</guid>
+      <description>&lt;p&gt;说来惭愧，大四的我即将毕业，却才拥有第一份满一个月的实习经历，倒也是颇为少见了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>设计的价值</title>
+      <link>https://example.org/blog/2019-2021/190325%E8%AE%BE%E8%AE%A1%E7%9A%84%E4%BB%B7%E5%80%BC/</link>
+      <pubDate>Mon, 25 Mar 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190325%E8%AE%BE%E8%AE%A1%E7%9A%84%E4%BB%B7%E5%80%BC/</guid>
+      <description>&lt;p&gt;上周接了一个商用logo的设计，开始还挺开心的，毕竟是一笔不小的收入。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>都挺好吗？</title>
+      <link>https://example.org/blog/2019-2021/190318%E9%83%BD%E6%8C%BA%E5%A5%BD%E9%83%BD%E6%8C%BA%E4%B8%8D%E5%A5%BD/</link>
+      <pubDate>Mon, 18 Mar 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190318%E9%83%BD%E6%8C%BA%E5%A5%BD%E9%83%BD%E6%8C%BA%E4%B8%8D%E5%A5%BD/</guid>
+      <description>&lt;p&gt;在看《都挺好》。&lt;/p&gt;
+&lt;p&gt;人上了年纪，大概都会变得固执，像个孩子一样。但又不同于孩子，他们往往软硬不吃。在他们眼中，自己几十年的经历经验能够支撑他们做绝大部分决定，还没到需要孩子来教他们的时候。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>宽容，与世界和解</title>
+      <link>https://example.org/blog/2019-2021/190314%E5%AE%BD%E5%AE%B9%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C/</link>
+      <pubDate>Thu, 14 Mar 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190314%E5%AE%BD%E5%AE%B9%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C/</guid>
+      <description>&lt;p&gt;柴静在《看见》里写，六年的《新闻调查》，让她开始去宽容，人和事。她说，自己似乎懂了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>地铁惬意时光</title>
+      <link>https://example.org/blog/2019-2021/190312%E4%BA%AB%E5%8F%97%E5%9C%B0%E9%93%81%E4%B8%8A%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%97%B6%E5%85%89/</link>
+      <pubDate>Tue, 12 Mar 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190312%E4%BA%AB%E5%8F%97%E5%9C%B0%E9%93%81%E4%B8%8A%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%97%B6%E5%85%89/</guid>
+      <description>&lt;p&gt;乘地铁不是件舒服事，我一直这样认为。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>生日快乐</title>
+      <link>https://example.org/blog/2019-2021/190310%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E6%AF%95%E4%B8%9A%E5%BF%AB%E4%B9%90/</link>
+      <pubDate>Sun, 10 Mar 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190310%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E6%AF%95%E4%B8%9A%E5%BF%AB%E4%B9%90/</guid>
+      <description>&lt;p&gt;今年3月7日，阴历二月初一，是我的生日。&lt;/p&gt;
+&lt;p&gt;在6号的晚上十点半，刚刚吃过晚饭洗漱完毕准备睡下的我收到了一条微信——领导明天出差去访谈，你要不要跟去，8点钟到公司或者9点自己到那边。那是实习的第三天。这三天，每天6点50分左右起床，洗漱完毕走去地铁站，然后乘坐1号线转4号线，再步行去公司，8点50左右正好到公司楼下。也就是说，每天在路上的时间有近4个小时。那种疲惫程度，远甚于坐班一天带来的那点辛苦。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>看见这个世界</title>
+      <link>https://example.org/blog/2019-2021/190310%E7%9C%8B%E8%A7%81%E8%BF%99%E4%B8%AA%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%B8%96%E7%95%8C/</link>
+      <pubDate>Sun, 10 Mar 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190310%E7%9C%8B%E8%A7%81%E8%BF%99%E4%B8%AA%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%B8%96%E7%95%8C/</guid>
+      <description>&lt;p&gt;在读《看见》。&lt;/p&gt;
+&lt;p&gt;说也奇怪，如今已是大四，才翻起这本书，多少显得不合时宜，毕竟我是读新闻专业。大概就是冥冥中注定吧，这本早就列在书单里的书，终究在今天被我用kindle翻开。两页之后，果然对我胃口。一章以后，已是满心翻涌。看到了五分之一，我已经不由得不写点什么，一泄心中翻涌的怒涛。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>共享单车</title>
+      <link>https://example.org/blog/2019-2021/190309%E6%B6%88%E5%A4%B1%E7%9A%84%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6/</link>
+      <pubDate>Sat, 09 Mar 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190309%E6%B6%88%E5%A4%B1%E7%9A%84%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6/</guid>
+      <description>&lt;p&gt;年后回来实习，路途遥远，有一半的交通时间都花在了地铁站到公司和学校之间的路上。其实还是喜欢走路的，倒也没什不好的，只是偶尔出门晚了些，还是希望能快些去乘地铁。再者说，毕竟下班后，归心似箭啊。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>《情人》</title>
+      <link>https://example.org/blog/2019-2021/190303%E6%9C%89%E4%BA%9B%E7%88%B1%E4%B8%8D%E6%98%AF%E5%8D%A0%E6%9C%89%E4%B9%9F%E6%97%A0%E6%84%8F%E9%95%BF%E4%B9%85/</link>
+      <pubDate>Sun, 03 Mar 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190303%E6%9C%89%E4%BA%9B%E7%88%B1%E4%B8%8D%E6%98%AF%E5%8D%A0%E6%9C%89%E4%B9%9F%E6%97%A0%E6%84%8F%E9%95%BF%E4%B9%85/</guid>
+      <description>&lt;p&gt;修子终究还是恢复了单身。可远野却离了婚，这是我不曾想到的。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>锤子不再</title>
+      <link>https://example.org/blog/2019-2021/190303%E8%80%81%E7%BD%97%E5%8C%BF%E4%BA%86%E9%94%A4%E5%AD%90%E4%B8%8D%E5%86%8D/</link>
+      <pubDate>Sun, 03 Mar 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190303%E8%80%81%E7%BD%97%E5%8C%BF%E4%BA%86%E9%94%A4%E5%AD%90%E4%B8%8D%E5%86%8D/</guid>
+      <description>&lt;p&gt;自从聊天宝发布以后，老罗就消失了。尽管微博上还在转发，但却再没附带多一个字。就如我们也知道，他的微博不仅仅是自己在打理。那么老罗哪去了？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>返杭t</title>
+      <link>https://example.org/blog/2019-2021/190225%E8%BF%94%E6%9D%AD/</link>
+      <pubDate>Mon, 25 Feb 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190225%E8%BF%94%E6%9D%AD/</guid>
+      <description>&lt;p&gt;两天的火车之旅结束后，总算是又回到了杭州。不得不说，杭州真的冷。要知道，我可是一个从北纬43度回来的人。万幸的是回来这两天有些阳光，趁此良机晒晒被子，迎接下一个雨季。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>小米9</title>
+      <link>https://example.org/blog/2019-2021/190220%E5%B0%8F%E7%B1%B3%E9%85%92%E6%95%91%E5%B0%8F%E7%B1%B3/</link>
+      <pubDate>Wed, 20 Feb 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190220%E5%B0%8F%E7%B1%B3%E9%85%92%E6%95%91%E5%B0%8F%E7%B1%B3/</guid>
+      <description>&lt;p&gt;经过微博一周的花样预热，米酒今天终于发布了。应了广大网友那句话，该发布的信息都发布了，发布会就只剩吹逼。经过了几位高管长达七天的预热和各种爆料，今天留给米粉的惊喜大概就是石锤的价格了。其他的点究竟如何，米粉心中自有判断，就算发布会用三个小时也不能改变多少。当然，堆满了该有的不该有的，普通版6+64款2999起步价，不算那么丑陋的外观，小米这次真是足够良心。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>毕业季</title>
+      <link>https://example.org/blog/2019-2021/190215%E9%9D%A2%E4%B8%B4%E6%AF%95%E4%B8%9A%E5%90%84%E6%9C%89%E5%90%84%E7%9A%84%E7%97%9B/</link>
+      <pubDate>Fri, 15 Feb 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190215%E9%9D%A2%E4%B8%B4%E6%AF%95%E4%B8%9A%E5%90%84%E6%9C%89%E5%90%84%E7%9A%84%E7%97%9B/</guid>
+      <description>&lt;p&gt;今天开始，18年考研成绩陆续出炉，有人欢喜有人忧的日子已经到了。当然，这只是对于考研的人而言。而对于工作的人来说，半年前就已经开始了这艰难的一年时光。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>安卓手机</title>
+      <link>https://example.org/blog/2019-2021/190214%E4%BA%BA%E5%82%BB%E9%92%B1%E5%A4%9A%E6%99%BA%E5%95%86%E4%BD%8E%E6%85%8E%E7%94%A8%E5%AE%89%E5%8D%93%E6%99%BA%E8%83%BD%E6%9C%BA/</link>
+      <pubDate>Thu, 14 Feb 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190214%E4%BA%BA%E5%82%BB%E9%92%B1%E5%A4%9A%E6%99%BA%E5%95%86%E4%BD%8E%E6%85%8E%E7%94%A8%E5%AE%89%E5%8D%93%E6%99%BA%E8%83%BD%E6%9C%BA/</guid>
+      <description>&lt;p&gt;人傻钱多智商低，慎用安卓智能机。玩机圈流行的这么一句话，用一种极尽讽刺的口味道出了至今为止依然是安卓手机的痛点——卡=用不住。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>博客志</title>
+      <link>https://example.org/blog/2019-2021/190211%E5%8D%9A%E5%AE%A2%E5%BF%97/</link>
+      <pubDate>Mon, 11 Feb 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190211%E5%8D%9A%E5%AE%A2%E5%BF%97/</guid>
+      <description>&lt;p&gt;打开自己的博客首页，只剩一篇文章。盯了蛮久，心里一阵唏嘘。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我的世界</title>
+      <link>https://example.org/blog/2019-2021/190211%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E8%82%9D%E6%B8%B8%E6%88%8F/</link>
+      <pubDate>Mon, 11 Feb 2019 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2019-2021/190211%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E8%82%9D%E6%B8%B8%E6%88%8F/</guid>
+      <description>&lt;p&gt;Minecraft，简称mc，中文名我的世界，最佳养老又肝的沙盒游戏代表作。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>青荷笔记</title>
+      <link>https://example.org/blog/2015-2019/160908%E9%9D%92%E8%8D%B7%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Thu, 08 Sep 2016 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160908%E9%9D%92%E8%8D%B7%E7%AC%94%E8%AE%B0/</guid>
+      <description>&lt;p&gt;这并不是我第一次做志愿服务，却是我第一次身体力行、全心投入的志愿服务&amp;ndash;2016 G20杭州峰会志愿者。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>　你为何对生活严肃了</title>
+      <link>https://example.org/blog/2015-2019/160417%E4%BD%A0%E4%B8%BA%E4%BD%95%E5%AF%B9%E7%94%9F%E6%B4%BB%E4%B8%A5%E8%82%83%E4%BA%86/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160417%E4%BD%A0%E4%B8%BA%E4%BD%95%E5%AF%B9%E7%94%9F%E6%B4%BB%E4%B8%A5%E8%82%83%E4%BA%86/</guid>
+      <description>&lt;p&gt;　　没有经过战斗的舍弃是虚伪的，没有经过苦难的超脱是轻佻的。&amp;ndash;傅雷&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“死刑存留不会取决于个案</title>
+      <link>https://example.org/blog/2015-2019/%E5%88%AB%E5%B9%BC%E7%A8%9A%E6%AD%BB%E5%88%91%E5%BF%85%E9%A1%BB%E6%9C%89%E6%88%91%E4%B8%8D%E6%88%90%E7%86%9F%E7%B3%BB%E5%88%97%E4%B9%8B%E5%8D%81/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E5%88%AB%E5%B9%BC%E7%A8%9A%E6%AD%BB%E5%88%91%E5%BF%85%E9%A1%BB%E6%9C%89%E6%88%91%E4%B8%8D%E6%88%90%E7%86%9F%E7%B3%BB%E5%88%97%E4%B9%8B%E5%8D%81/</guid>
+      <description>&lt;p&gt;　　2013年4月，复旦大学医学院发生一起投毒案件，致在校研究生黄洋死亡，经侦查确认投毒者系黄洋同寝室同学林森浩。2014年2月18日，上海市二中院作出一审判决，以故意杀人罪判处林森浩死刑，剥夺政治权利终身。宣判后，林森浩提出上诉。2015年1月8日，上海市高级人民法院作出二审裁定，驳回上诉，维持原判，并依法报请最高法核准。2015年12月11日下午，该院遵照最高法院长签发的执行死刑命令，将林森浩执行死刑。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“浙”记007</title>
+      <link>https://example.org/blog/2015-2019/%E6%B5%99%E8%AE%B0007/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%B5%99%E8%AE%B0007/</guid>
+      <description>&lt;p&gt;十二月的第一个星期跑掉了。说好的单词没背，课本没翻。嗯。我在想到底会不会挂科，七上八下。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“浙”记008</title>
+      <link>https://example.org/blog/2015-2019/%E6%B5%99%E8%AE%B0008/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%B5%99%E8%AE%B0008/</guid>
+      <description>&lt;p&gt;双12&amp;quot;又剁手，今天已经把淘宝卸载了。买书上瘾，无药可救。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“记11.13巴黎事件	</title>
+      <link>https://example.org/blog/2015-2019/%E5%B7%B4%E9%BB%8E%E4%BA%8B%E4%BB%B6/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E5%B7%B4%E9%BB%8E%E4%BA%8B%E4%BB%B6/</guid>
+      <description>&lt;p&gt;当地时间15日清晨，在距离恐怖袭击地点不远的法国巴黎共和国广场，人们纷纷前来悼念在恐怖袭击中不幸遇难的平民。法国总统奥朗德曾宣布为亡者举行3天哀悼。现在，还处于这段时间内，全世界心怀和平，反对战争的人与巴黎人民同在。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“隔夜茶，何续水</title>
+      <link>https://example.org/blog/2015-2019/%E9%9A%94%E5%A4%9C%E8%8C%B6%E4%BD%95%E7%BB%AD%E6%B0%B4.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E9%9A%94%E5%A4%9C%E8%8C%B6%E4%BD%95%E7%BB%AD%E6%B0%B4.txt/</guid>
+      <description>&lt;p&gt;　　中华人民共和国自建国起，走过了六十五年的岁月。生机勃勃的中华民族在六十五年间，创造一个又一个奇迹。没人能否认这六十五年来的艰辛、困苦，历史自有它不容抗拒的姿容；没人能否认这六十五年来出现的的反复、错误，时光见证，不容争辩；也没人否认这六十五年来的进步、兴旺，此刻翻天覆地的新中国，到处都是铁证。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“颠覆微信就要摆脱控制</title>
+      <link>https://example.org/blog/2015-2019/%E9%A2%A0%E8%A6%86%E5%BE%AE%E4%BF%A1%E5%B0%B1%E8%A6%81%E6%91%86%E8%84%B1%E6%8E%A7%E5%88%B6.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E9%A2%A0%E8%A6%86%E5%BE%AE%E4%BF%A1%E5%B0%B1%E8%A6%81%E6%91%86%E8%84%B1%E6%8E%A7%E5%88%B6.txt/</guid>
+      <description>&lt;p&gt;　　《黑客帝国》中有这样一个情节。尼奥发现救世主并不能拯救人类，那扇传说中标志着拯救的门不过是又一个轮回的开始，这其实是程序的另一种控制。即便是到了影片最后，人类也没能战胜矩阵程序，不过是一种新的轮回开始了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>20141223</title>
+      <link>https://example.org/blog/2015-2019/20150107/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/20150107/</guid>
+      <description>&lt;p&gt;　　十九点一十一分，二零一五年，一月七日。这会儿，大家还都在上课吧，今晚是王老师的晚自习，她大概会讲练习册。而我，已经在家待了一天了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alpha Go带来的有关我国科技公司的反思</title>
+      <link>https://example.org/blog/2015-2019/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.txt/</guid>
+      <description>&lt;p&gt;一场人工智能与世界顶级棋手的大战，如今李世乭两连败。一时间，哗然四起。有人说，这是人工智能的巨大成就；有人说，无论结局如何，都是人类的伟大胜利。而在这里，笔者并不想探究究竟谁输谁赢，想聊聊中国科技公司的发展。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>mooc教育</title>
+      <link>https://example.org/blog/2015-2019/mooc%E6%95%99%E8%82%B2.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/mooc%E6%95%99%E8%82%B2.txt/</guid>
+      <description>&lt;p&gt;　　我最早接触在线教育大概是高一的时候。假期不打游戏浪迹网络的我，在那时还在充分开发对各个门户网站的认知。当接触到网易的时候，接触到了网易公开课，那时云课堂还没有做起来。今天看起来，公开课虽然与我们所言的MOOC模式仍有很大区别，却也算是网络自主学习与教育的另一种形式，在彼时也是比较新潮的。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一曲怪异的咏叹调</title>
+      <link>https://example.org/blog/2015-2019/%E7%BA%AA%E5%BD%95%E7%89%87%E8%A7%82%E5%90%8E%E6%84%9F%E4%B8%80%E6%9B%B2%E6%80%AA%E5%BC%82%E7%9A%84%E5%92%8F%E5%8F%B9%E8%B0%83.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E7%BA%AA%E5%BD%95%E7%89%87%E8%A7%82%E5%90%8E%E6%84%9F%E4%B8%80%E6%9B%B2%E6%80%AA%E5%BC%82%E7%9A%84%E5%92%8F%E5%8F%B9%E8%B0%83.txt/</guid>
+      <description>&lt;p&gt;一曲怪异的咏叹调&amp;ndash;纪录片《悲兮魔兽》观后感&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>三个和尚没水吃？挑好你自己的那桶！</title>
+      <link>https://example.org/blog/2015-2019/160917%E4%B8%89%E4%B8%AA%E5%92%8C%E5%B0%9A%E6%B2%A1%E6%B0%B4%E5%90%83/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160917%E4%B8%89%E4%B8%AA%E5%92%8C%E5%B0%9A%E6%B2%A1%E6%B0%B4%E5%90%83/</guid>
+      <description>&lt;p&gt;一个和尚挑水吃，三个和尚没水吃。经常遇到这种事。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>不可言传的春晚</title>
+      <link>https://example.org/blog/2015-2019/%E5%85%AC%E7%84%B6%E7%AD%91%E8%B5%B7%E7%9A%84%E5%9B%B4%E5%A2%99.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E5%85%AC%E7%84%B6%E7%AD%91%E8%B5%B7%E7%9A%84%E5%9B%B4%E5%A2%99.txt/</guid>
+      <description>&lt;p&gt;今年的CW，你看了吗？看了多少？看完能给几分？&lt;/p&gt;
+&lt;p&gt;索未觉得，今年CW先给个满分，再给个零分。&lt;/p&gt;
+&lt;p&gt;还能给满分？是的，我觉着有几个点可以给满分。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>与自己相遇</title>
+      <link>https://example.org/blog/2015-2019/160919%E4%B8%8E%E8%87%AA%E5%B7%B1%E7%9B%B8%E9%81%87/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160919%E4%B8%8E%E8%87%AA%E5%B7%B1%E7%9B%B8%E9%81%87/</guid>
+      <description>&lt;p&gt;习惯了一直往前走，忘记了停下来歇一歇，越走越累，越走越疲惫。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>中国需要什么样的人才</title>
+      <link>https://example.org/blog/2015-2019/%E4%B8%AD%E5%9B%BD%E9%9C%80%E8%A6%81%E7%A5%9E%E9%A9%AC%E6%A0%B7%E7%9A%84%E4%BA%BA.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E4%B8%AD%E5%9B%BD%E9%9C%80%E8%A6%81%E7%A5%9E%E9%A9%AC%E6%A0%B7%E7%9A%84%E4%BA%BA.txt/</guid>
+      <description>&lt;p&gt;谈中国需要什么样的人才。
+到目前为止，中国最不缺的也许是知识分子。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>亲情是一种束缚</title>
+      <link>https://example.org/blog/2015-2019/160331%E4%BA%B2%E6%83%85%E6%98%AF%E4%B8%80%E7%A7%8D%E6%9D%9F%E7%BC%9A/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160331%E4%BA%B2%E6%83%85%E6%98%AF%E4%B8%80%E7%A7%8D%E6%9D%9F%E7%BC%9A/</guid>
+      <description>&lt;p&gt;　　几天前，我看见一个朋友发了条动态。也并没有细读，但给我的感觉很奇怪。于是我就问了一句：怎么了，发生了什么吗？&lt;/p&gt;
+&lt;p&gt;　　没有立即得到回复，但我根本没想到回复的第一句话竟是这样的：&amp;ldquo;我现在知道为什么你暑假选择在家，而不是出去旅游了。&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>今年的春节祝福你如何送达？</title>
+      <link>https://example.org/blog/2015-2019/%E4%BB%8A%E5%B9%B4%E7%9A%84%E6%98%A5%E8%8A%82%E7%A5%9D%E7%A6%8F%E4%BD%A0%E5%A6%82%E4%BD%95%E8%A1%A8%E8%BE%BE.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E4%BB%8A%E5%B9%B4%E7%9A%84%E6%98%A5%E8%8A%82%E7%A5%9D%E7%A6%8F%E4%BD%A0%E5%A6%82%E4%BD%95%E8%A1%A8%E8%BE%BE.txt/</guid>
+      <description>&lt;p&gt;今日除夕。晚上7点多钟开始，来自天南海北的祝福语、感恩话将遍布电话线、服务器组成的网络。
+不知今夜，你选择哪种方式送达祝福？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>伟大的免费时代终结在即</title>
+      <link>https://example.org/blog/2015-2019/160531%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%85%8D%E8%B4%B9%E6%97%B6%E4%BB%A3%E7%BB%88%E7%BB%93%E5%9C%A8%E5%8D%B3/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160531%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%85%8D%E8%B4%B9%E6%97%B6%E4%BB%A3%E7%BB%88%E7%BB%93%E5%9C%A8%E5%8D%B3/</guid>
+      <description>&lt;p&gt;　　长期欠缺的服务有偿意识
+　　我们有很多网民在潜意识中都有这样一个观念：我已经付了那么贵的网费，网上的服务就应该免费，收费的我们不接受。如果你觉得这是穷乡僻壤的村镇人才有的观念，那你就大错特错了。事实上，一个人对于网络服务的需求越多，这种观念可能越强烈。因此这是接入互联网的所有用户都会有的想法，而不完全取决于用户的经济水平。（当然了，如果你是&amp;quot;思聪&amp;quot;或者你男朋友是&amp;quot;思聪&amp;quot;，那倒是不必在意。）&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>伪柏拉图爱情观</title>
+      <link>https://example.org/blog/2015-2019/160525%E4%BC%AA%E6%9F%8F%E6%8B%89%E5%9B%BE%E7%88%B1%E6%83%85/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160525%E4%BC%AA%E6%9F%8F%E6%8B%89%E5%9B%BE%E7%88%B1%E6%83%85/</guid>
+      <description>&lt;p&gt;你是否准备过两个人的生活?&lt;/p&gt;
+&lt;p&gt;　　你准备好过两个人的生活了吗？某个时刻，我突然想到了这个问题。&lt;/p&gt;
+&lt;p&gt;　　是的，两个人的生活，自然就是有伴侣的生活。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>你好，十八岁</title>
+      <link>https://example.org/blog/2015-2019/%E4%BD%A0%E5%A5%BD%E5%8D%81%E5%85%AB%E5%B2%81.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E4%BD%A0%E5%A5%BD%E5%8D%81%E5%85%AB%E5%B2%81.txt/</guid>
+      <description>&lt;p&gt;　　那是2010年，我初二。完全忘记了因为什么，只记得当时做了一个决定，并坚持到了今天&amp;ndash;迎接18岁。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>你的不安，谁又在乎</title>
+      <link>https://example.org/blog/2015-2019/161007%E4%BD%A0%E7%9A%84%E4%B8%8D%E5%AE%89%E8%B0%81%E5%8F%88%E5%9C%A8%E4%B9%8E/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/161007%E4%BD%A0%E7%9A%84%E4%B8%8D%E5%AE%89%E8%B0%81%E5%8F%88%E5%9C%A8%E4%B9%8E/</guid>
+      <description>&lt;p&gt;一七年就像杭州的秋天，说到就要到了。
+一年又要从手中溜走，曾经天真以为能够抓得住。&lt;/p&gt;
+&lt;p&gt;到头来手里什么都没剩下。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>保留心中改变世界的火种</title>
+      <link>https://example.org/blog/2015-2019/%E8%AF%B7%E4%BF%9D%E7%95%99%E4%BD%A0%E5%BF%83%E4%B8%AD%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%E7%9A%84%E7%81%AB%E7%A7%8D.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E8%AF%B7%E4%BF%9D%E7%95%99%E4%BD%A0%E5%BF%83%E4%B8%AD%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%E7%9A%84%E7%81%AB%E7%A7%8D.txt/</guid>
+      <description>&lt;p&gt;　　每个人都只是一个平凡无奇的个体，如同一滴水，一粒沙，渺小而又卑微。谁不知道，世上不存在某个可以独立改变世界的个体。在历史长河面前，在大自然面前，在巨大的人类社会面前，更多的只有喟然长叹。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>信仰</title>
+      <link>https://example.org/blog/2015-2019/%E6%9C%89%E5%85%B3%E4%BF%A1%E4%BB%B0.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%9C%89%E5%85%B3%E4%BF%A1%E4%BB%B0.txt/</guid>
+      <description>&lt;p&gt;同样是一个早就想动笔的话题，不同的是，碍于各种原因迟迟不敢写。一来还是怕被人骂，二来也怕自己太浅薄。不过今天还是动笔了，因着内心的信仰。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>先打碎，再重塑--记大一</title>
+      <link>https://example.org/blog/2015-2019/160801%E5%85%88%E6%89%93%E7%A2%8E%E5%86%8D%E9%87%8D%E5%A1%91%E8%AE%B0%E5%A4%A7%E4%B8%80/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160801%E5%85%88%E6%89%93%E7%A2%8E%E5%86%8D%E9%87%8D%E5%A1%91%E8%AE%B0%E5%A4%A7%E4%B8%80/</guid>
+      <description>&lt;p&gt;自以为与更多人相比，我这一年过得平淡无奇，并无甚值得拿出来炫耀的。不如学生会，不加社团，不钻学术，不去实习。整一年自己所做的事恰恰好都在契合高三上学期写过的一篇文章：打碎自己，重塑一个新的出来。
+既是记录，便要回忆，总要有个开始，那可能就得从一个讨论组开始。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>写在暮冬之初</title>
+      <link>https://example.org/blog/2015-2019/%E5%86%99%E5%9C%A8%E6%9A%AE%E5%86%AC%E4%B9%8B%E5%88%9D.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E5%86%99%E5%9C%A8%E6%9A%AE%E5%86%AC%E4%B9%8B%E5%88%9D.txt/</guid>
+      <description>&lt;p&gt;今天是腊月初一，也就冬月、暮冬。刚刚写完学校里一场送春联活动的稿子，我想起自己好久没写点什么了，借着今晚的空闲，就赶快码点字出来吧。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>姑苏行记</title>
+      <link>https://example.org/blog/2015-2019/%E5%A7%91%E8%8B%8F%E8%A1%8C%E8%AE%B0.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E5%A7%91%E8%8B%8F%E8%A1%8C%E8%AE%B0.txt/</guid>
+      <description>&lt;p&gt;打开文档的这一刻，我忽然想到，2017年的伊始，我为自己准备的一份最好的礼物，大抵就是这次苏州之行吧。浸染在学校的氛围中如此之久，似乎自己已经恍惚忘记外面世界的模样。连进趟杭城都嫌地铁慢吞吞的我，终是在2016年的最后一天跑到了一个陌生而新鲜的地儿：苏州。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>安卓刷机</title>
+      <link>https://example.org/blog/2015-2019/%E4%BD%A0%E4%B9%9F%E8%83%BD%E7%BB%99%E5%AE%89%E5%8D%93%E5%88%B7%E6%9C%BA.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E4%BD%A0%E4%B9%9F%E8%83%BD%E7%BB%99%E5%AE%89%E5%8D%93%E5%88%B7%E6%9C%BA.txt/</guid>
+      <description>&lt;p&gt;眼看着越来越多国产手机的兴起，不少人也都开始用上了安卓手机。然而安卓手机最有意思的地方就是你可以刷机！没错一部手机在手，你可以感受好几种rom的风格（当然前提是你的手机很火很火那种）。不过比较好的国内rom厂商还并不是很多， 许多机子的第一适配对象自然就是最流行的MIUI了。所以这里教你怎么找到自己手机的刷机包，怎么样换上MIUI。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>家务这件小事</title>
+      <link>https://example.org/blog/2015-2019/160412%E5%AE%B6%E5%8A%A1%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160412%E5%AE%B6%E5%8A%A1%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B/</guid>
+      <description>&lt;p&gt;这件很容易被忽视的小事，其实是生活最真实的写照，最朴素的描绘。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>就着五四谈青年</title>
+      <link>https://example.org/blog/2015-2019/160504%E5%B0%B1%E7%9D%80%E4%BA%94%E5%9B%9B%E8%B0%88%E9%9D%92%E5%B9%B4/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160504%E5%B0%B1%E7%9D%80%E4%BA%94%E5%9B%9B%E8%B0%88%E9%9D%92%E5%B9%B4/</guid>
+      <description>&lt;p&gt;　　那一年的&amp;quot;五四&amp;quot;之后，五·四这一天虽然以节日的形式留下了，那种&amp;quot;五四&amp;quot;精神留下了，却还是留不住今日的青年。这也是多少老一辈人在慨叹的事情。曾经70后数落80后，80后骂90后，而今天70后、80后、90后一起无法理解接受00后&amp;ndash;即将接班的新一代青年人。事实上，时代变了、社会变了、思想早已翻天覆地了，还死死揪着97年前的&amp;quot;五四&amp;quot;不放谈青年精神简直神经。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>平台商，优质的互联网服务离我们还有多远？</title>
+      <link>https://example.org/blog/2015-2019/160505%E5%B9%B3%E5%8F%B0%E5%95%86%E6%88%91%E4%BB%AC%E7%A6%BB%E4%BC%98%E8%B4%A8%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E6%9C%8D%E5%8A%A1%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160505%E5%B9%B3%E5%8F%B0%E5%95%86%E6%88%91%E4%BB%AC%E7%A6%BB%E4%BC%98%E8%B4%A8%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E6%9C%8D%E5%8A%A1%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C/</guid>
+      <description>&lt;p&gt;近年来网购假货频现，低素质客服送花圈已经屡见不鲜；快递员态度恶劣，甚至收揽件过程中故意拆件偷件；今年3·15晚会，央视曝光了外卖平台饿了么上存在&amp;quot;黑餐饮&amp;quot;&amp;ldquo;小作坊&amp;quot;的问题；还有近日频繁曝出的网约车问题不禁让我们想问，优质的互联网服务离我们到底还有多远？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>弄丢自己</title>
+      <link>https://example.org/blog/2015-2019/%E5%BC%84%E4%B8%A2%E4%BA%86%E8%87%AA%E5%B7%B1.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E5%BC%84%E4%B8%A2%E4%BA%86%E8%87%AA%E5%B7%B1.txt/</guid>
+      <description>&lt;p&gt;　　早想动笔，却又拖到了这一刻。花时间去整理班级的些许材料，再次发给大家，希望能在这最后的十几天里，对他们有些许的触发。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>当我谈到节操的时候，我想谈的是什么</title>
+      <link>https://example.org/blog/2015-2019/%E6%88%91%E4%B8%8D%E6%88%90%E7%86%9F%E5%BD%93%E6%88%91%E8%B0%88%E5%88%B0%E8%8A%82%E6%93%8D%E7%9A%84%E6%97%B6%E5%80%99%E6%88%91%E6%83%B3%E8%B0%88%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%88%91%E4%B8%8D%E6%88%90%E7%86%9F%E5%BD%93%E6%88%91%E8%B0%88%E5%88%B0%E8%8A%82%E6%93%8D%E7%9A%84%E6%97%B6%E5%80%99%E6%88%91%E6%83%B3%E8%B0%88%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88.txt/</guid>
+      <description>&lt;p&gt;　　先来引证百度百科有关节操二字的两种解释，其一为汉语词汇：&amp;ldquo;节操，汉语词语，指人的气节、操行、正义感&amp;rdquo;，其二为网络新词：&amp;ldquo;目前网络上常说的&amp;quot;节操掉了一地&amp;quot;多半形容此人思想、语言、行为极度猥琐&amp;rdquo;。如此已经可见，新意与原意根本南辕北辙。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>快播</title>
+      <link>https://example.org/blog/2015-2019/%E5%BF%AB%E6%92%AD.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E5%BF%AB%E6%92%AD.txt/</guid>
+      <description>&lt;p&gt;砍掉快播，别是赔了夫人又折兵。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>快餐时代，我依然愿你成长8</title>
+      <link>https://example.org/blog/2015-2019/160422%E5%BF%AB%E9%A4%90%E6%97%B6%E4%BB%A3%E6%88%91%E4%BE%9D%E7%84%B6%E6%84%BF%E4%BD%A0%E6%88%90%E9%95%BF/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160422%E5%BF%AB%E9%A4%90%E6%97%B6%E4%BB%A3%E6%88%91%E4%BE%9D%E7%84%B6%E6%84%BF%E4%BD%A0%E6%88%90%E9%95%BF/</guid>
+      <description>&lt;p&gt;　　这是阅读最坏的时代，这是阅读最好的时代。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我的网站折腾记</title>
+      <link>https://example.org/blog/2015-2019/%E6%88%91%E7%9A%84%E7%BD%91%E7%AB%99%E6%8A%98%E8%85%BE%E5%8F%B2.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%88%91%E7%9A%84%E7%BD%91%E7%AB%99%E6%8A%98%E8%85%BE%E5%8F%B2.txt/</guid>
+      <description>&lt;p&gt;　　站小，人少，可就是禁不起我这么个爱折腾的人打理。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>拥有你的欣喜无与伦比</title>
+      <link>https://example.org/blog/2015-2019/160910%E6%8B%A5%E6%9C%89%E4%BD%A0%E7%9A%84%E6%AC%A3%E5%96%9C%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160910%E6%8B%A5%E6%9C%89%E4%BD%A0%E7%9A%84%E6%AC%A3%E5%96%9C%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94/</guid>
+      <description>&lt;p&gt;&amp;ldquo;请问老师，男生宿舍楼在哪呢？&amp;rdquo;
+&amp;ldquo;宿舍？正心楼？好像就在后面。&amp;ldquo;下面一片笑声。我一脸尴尬，默默道声谢谢拉着箱子走出去。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>故乡思</title>
+      <link>https://example.org/blog/2015-2019/%E6%95%85%E4%B9%A1%E6%80%9D.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%95%85%E4%B9%A1%E6%80%9D.txt/</guid>
+      <description>&lt;p&gt;　　杜诗曰：&amp;ldquo;露从今夜白，月是故乡明。&amp;ldquo;王维也有：&amp;ldquo;君自故乡来，应知故乡事，来日绮窗前，寒梅着花未？&amp;quot;。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>文字与文字运用</title>
+      <link>https://example.org/blog/2015-2019/%E6%96%87%E5%AD%97%E4%B8%8E%E6%96%87%E5%AD%97%E8%BF%90%E7%94%A8.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%96%87%E5%AD%97%E4%B8%8E%E6%96%87%E5%AD%97%E8%BF%90%E7%94%A8.txt/</guid>
+      <description>&lt;p&gt;　　我们的汉字原本就很多是象形文字，优美而传神。并且，事实上，文字是一种有灵性的东西。如果你注意修养，精心雕刻，他总能发挥出意想不到的力量。文字本身是不会动的，但是他的力量在于能够触动读者的思维，产生想象，使读者和笔者的思维最大程度的契合。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>无创新，不生存--2015手机行业简析</title>
+      <link>https://example.org/blog/2015-2019/%E6%97%A0%E5%88%9B%E6%96%B0%E4%B8%8D%E7%94%9F%E5%AD%982015%E6%89%8B%E6%9C%BA%E8%A1%8C%E4%B8%9A%E7%AE%80%E6%9E%90.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%97%A0%E5%88%9B%E6%96%B0%E4%B8%8D%E7%94%9F%E5%AD%982015%E6%89%8B%E6%9C%BA%E8%A1%8C%E4%B8%9A%E7%AE%80%E6%9E%90.txt/</guid>
+      <description>&lt;p&gt;　　2015年对于手机行业来讲，仍是是艰难转型中的一年。整个行业竞争更加激烈，平行价格中产品数量猛增。陆陆续续的有厂商退出市场，同时有人大张旗鼓迈进市场。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>是否无知则勇敢</title>
+      <link>https://example.org/blog/2015-2019/160502%E6%97%A0%E7%9F%A5%E6%89%8D%E5%8B%87%E6%95%A2/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160502%E6%97%A0%E7%9F%A5%E6%89%8D%E5%8B%87%E6%95%A2/</guid>
+      <description>&lt;p&gt;　　越是什么都不知道，就越不会感到害怕，越敢于尝试。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>朋友圈，收起你廉价的悲伤</title>
+      <link>https://example.org/blog/2015-2019/160529%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B6%E8%B5%B7%E4%BD%A0%E5%BB%89%E4%BB%B7%E7%9A%84%E6%82%B2%E4%BC%A4/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160529%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B6%E8%B5%B7%E4%BD%A0%E5%BB%89%E4%BB%B7%E7%9A%84%E6%82%B2%E4%BC%A4/</guid>
+      <description>&lt;p&gt;　　&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>期末考前</title>
+      <link>https://example.org/blog/2015-2019/%E8%80%83%E5%89%8D.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E8%80%83%E5%89%8D.txt/</guid>
+      <description>&lt;p&gt;一
+05/23&lt;/p&gt;
+&lt;p&gt;我以为自己并不在意。可那只是我以为。&lt;/p&gt;
+&lt;p&gt;是谁发明了毕业照这个恶心的东西，你大爷的。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>杂记</title>
+      <link>https://example.org/blog/2015-2019/%E6%9D%82%E8%AE%B0.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%9D%82%E8%AE%B0.txt/</guid>
+      <description>&lt;p&gt;　　进来多事，良久不安。早念该动笔写点什么，却始终一拖再拖，至此刻。痛感缓解片刻而已，我即爬起来敲下这点心思，生怕再拖下去会错过什么，大概是文人的一点矫情。想来不清楚主题为何，也只好引了这么一个《杂记》，草草动笔。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>来自孤独的信</title>
+      <link>https://example.org/blog/2015-2019/160430%E6%9D%A5%E8%87%AA%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BF%A1/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160430%E6%9D%A5%E8%87%AA%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BF%A1/</guid>
+      <description>&lt;p&gt;　　翻看封存的日志，上一次你给自己写信是在2013年，而今三年已去。久而不写心情文。如今喜爱写文的习惯，追溯起来还是以六年前的心情文为始，只是今天文风已变。写心情这件事，你倒是越来越忽视，不放在心上。这也就少了一种与自己交流的方式，对于你本已贫瘠不堪的生活，不得不说不是巨大的损失。现在，自己迷失在文字中，面对那么多出口，却也不知如何选择。无论哪里，都心不甘，情不愿，或许是你那点残存的信仰还在作祟吧。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>模糊不清的，是信仰，是我生活的全部</title>
+      <link>https://example.org/blog/2015-2019/160610%E6%A8%A1%E7%B3%8A%E4%B8%8D%E6%B8%85%E7%9A%84%E6%98%AF%E4%BF%A1%E4%BB%B0%E6%98%AF%E6%88%91%E7%94%9F%E6%B4%BB%E7%9A%84%E5%85%A8%E9%83%A8/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160610%E6%A8%A1%E7%B3%8A%E4%B8%8D%E6%B8%85%E7%9A%84%E6%98%AF%E4%BF%A1%E4%BB%B0%E6%98%AF%E6%88%91%E7%94%9F%E6%B4%BB%E7%9A%84%E5%85%A8%E9%83%A8/</guid>
+      <description>&lt;p&gt;　　我拉出椅子，来到宿舍楼道接出的阳台，听世界的声音。在我写下标题的一刹那，操场的灯关了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>每个人都是一座孤岛</title>
+      <link>https://example.org/blog/2015-2019/%E6%88%91%E7%9A%842015%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%B8%80%E5%BA%A7%E5%AD%A4%E5%B2%9B.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%88%91%E7%9A%842015%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%B8%80%E5%BA%A7%E5%AD%A4%E5%B2%9B.txt/</guid>
+      <description>&lt;p&gt;　　突然觉得，这个世界好大，大得让人心寒。而我们每个人又太小，就像无边汪洋上漂浮的一座座孤岛一样。没有由来，也无所谓逝去，漫无目的地那么流浪着。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>流量业务到底何去何从</title>
+      <link>https://example.org/blog/2015-2019/%E6%B5%81%E9%87%8F%E4%B8%9A%E5%8A%A1%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%B5%81%E9%87%8F%E4%B8%9A%E5%8A%A1%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E.txt/</guid>
+      <description>&lt;p&gt;　　2015年5月13日，李克强总理主持召开国务院常务会议时提到&amp;quot;上网流量不清零&amp;quot;&amp;ldquo;流量可转赠&amp;rdquo;。消息一出，轰动全网。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>浇灌新的自己</title>
+      <link>https://example.org/blog/2015-2019/20170226%E6%B5%87%E7%81%8C%E6%96%B0%E7%9A%84%E8%87%AA%E5%B7%B1/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/20170226%E6%B5%87%E7%81%8C%E6%96%B0%E7%9A%84%E8%87%AA%E5%B7%B1/</guid>
+      <description>&lt;p&gt;又是一个二月初一，已是来到北纬三十度三的第二个生日，时间一年又半。每天身边各种事物的熟悉都在不声不响地暗示着自己的长大。可年龄的增长，是否对得起心的成长呢？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>浙里始</title>
+      <link>https://example.org/blog/2015-2019/%E6%B5%99%E9%87%8C%E5%BC%80%E5%A7%8B/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%B5%99%E9%87%8C%E5%BC%80%E5%A7%8B/</guid>
+      <description>&lt;p&gt;一个人，一个提箱，一个背包，一张直达卧铺票。&lt;/p&gt;
+&lt;p&gt;33小时后，从通辽跨过黄河、迈过长江的我来到了钱塘江畔的浙传。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>爱自己</title>
+      <link>https://example.org/blog/2015-2019/%E5%A6%84%E8%AE%BA%E7%88%B1%E8%87%AA%E5%B7%B1.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E5%A6%84%E8%AE%BA%E7%88%B1%E8%87%AA%E5%B7%B1.txt/</guid>
+      <description>&lt;p&gt;　　生活的真正开始，该是一个人学会爱自己的时候。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>独立思考</title>
+      <link>https://example.org/blog/2015-2019/161002%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/161002%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5/</guid>
+      <description>&lt;p&gt;因为在酝酿大二暑假的计划，所以最近在看一些有关中国农村、乡村、民族方面有关情况的书和资料。在大量查询、翻阅这些材料的过程中，我发现了一个存在了很久却不曾注意的问题。我来自农村，在那片土地上有过十多年地道的生活，我了解农村现状，更清楚农村存在的各种问题。但每次在思考各种问题成因的时候，我毫无例外地陷入了思维的死海，所能够回答的只是表层的，并不是本质上的原因。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>现实问题的解决需要的是多方协作</title>
+      <link>https://example.org/blog/2015-2019/%E7%8E%B0%E5%AE%9E%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E9%9C%80%E8%A6%81%E7%9A%84%E6%98%AF%E5%A4%9A%E6%96%B9%E5%8D%8F%E4%BD%9C%E4%B9%9D.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E7%8E%B0%E5%AE%9E%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E9%9C%80%E8%A6%81%E7%9A%84%E6%98%AF%E5%A4%9A%E6%96%B9%E5%8D%8F%E4%BD%9C%E4%B9%9D.txt/</guid>
+      <description>&lt;p&gt;　　2016年春运又临，网络抢票再度成为热门。今年不同的是，12306的服务器崩溃已经不再遭人诟病，但最新推出的验证码确实占据了不少头条的位置。据360公司所收集数据的统计结果，最新的12306验证码一次通过率仅为8%。这是因为其最新推出的验证码纷&amp;quot;繁复杂，花样百出，让人捉摸不透。&amp;ldquo;但其此举不禁让人生疑，12306到底是在服务，还是在刁难？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>生命中有很多事是安排好的</title>
+      <link>https://example.org/blog/2015-2019/%E6%95%A3%E6%96%87--%E7%94%9F%E5%91%BD%E4%B8%AD%E6%9C%89%E5%BE%88%E5%A4%9A%E4%BA%8B%E6%98%AF%E5%AE%89%E6%8E%92%E5%A5%BD%E7%9A%84.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%95%A3%E6%96%87--%E7%94%9F%E5%91%BD%E4%B8%AD%E6%9C%89%E5%BE%88%E5%A4%9A%E4%BA%8B%E6%98%AF%E5%AE%89%E6%8E%92%E5%A5%BD%E7%9A%84.txt/</guid>
+      <description>&lt;p&gt;其实，生命中有很多事是安排好的，只是当下你我还看不清晰，没勇气去相信罢了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用心记录与分享，有最强的感染力</title>
+      <link>https://example.org/blog/2015-2019/161108%E7%94%A8%E5%BF%83%E8%AE%B0%E5%BD%95%E4%B8%8E%E5%88%86%E4%BA%AB%E6%89%8D%E6%9C%89%E6%9C%80%E5%BC%BA%E7%9A%84%E6%84%9F%E6%9F%93%E5%8A%9B/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/161108%E7%94%A8%E5%BF%83%E8%AE%B0%E5%BD%95%E4%B8%8E%E5%88%86%E4%BA%AB%E6%89%8D%E6%9C%89%E6%9C%80%E5%BC%BA%E7%9A%84%E6%84%9F%E6%9F%93%E5%8A%9B/</guid>
+      <description>&lt;p&gt;　　昨天凌晨一位朋友在自己的公众号上推送了一片文章&amp;ndash;《是一句提早七小时的生日快乐》&amp;ndash;写给她远在欧洲的男朋友。等到早上醒来，我看到已经它已经刷爆我朋友圈，转发的人是在太多。直到午饭我才认真阅读了文章，然后再转发的同时，大胆附上了几句略带评论色彩的赞语。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>病态的过节文化</title>
+      <link>https://example.org/blog/2015-2019/%E7%97%85%E6%80%81%E7%9A%84%E8%BF%87%E8%8A%82.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E7%97%85%E6%80%81%E7%9A%84%E8%BF%87%E8%8A%82.txt/</guid>
+      <description>&lt;p&gt;　　我不是个过圣诞节的人。不送平安果，不送花，不吃糖，可最后还是发出去了几十块钱的红包。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>空间，微博，朋友圈儿究竟哪一个才是你？</title>
+      <link>https://example.org/blog/2015-2019/160530%E7%A9%BA%E9%97%B4%E5%BE%AE%E5%8D%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%84%BF%E7%A9%B6%E7%AB%9F%E5%93%AA%E4%B8%80%E4%B8%AA%E6%89%8D%E6%98%AF%E4%BD%A0/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160530%E7%A9%BA%E9%97%B4%E5%BE%AE%E5%8D%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%84%BF%E7%A9%B6%E7%AB%9F%E5%93%AA%E4%B8%80%E4%B8%AA%E6%89%8D%E6%98%AF%E4%BD%A0/</guid>
+      <description>&lt;p&gt;男孩儿喜欢上了一个女孩儿。他想了解她。他费尽心思，从她的闺蜜那要到了她的QQ，微博，微信。他很幸运，女孩的空间和朋友圈都没有设置陌生人权限，他不需要加为好友。他认真的翻阅她的朋友圈，她的每一条微博，以及她的每一条说说。可当他查阅过这所有之后，去更加的不了解她了，多了满脑子的困惑。微博里，空间里，朋友圈里的她，竟是如此的不同。&lt;/p&gt;
+&lt;p&gt;她也许就是我们每个人。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>穿着毛衣去高考</title>
+      <link>https://example.org/blog/2015-2019/160607%E7%A9%BF%E7%9D%80%E6%AF%9B%E8%A1%A3%E5%8E%BB%E8%80%83%E8%AF%95/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160607%E7%A9%BF%E7%9D%80%E6%AF%9B%E8%A1%A3%E5%8E%BB%E8%80%83%E8%AF%95/</guid>
+      <description>&lt;p&gt;　　有些事儿在经历的时候真的是痛苦难捱，可过了以后你会真的感觉，不过就那么回事。再来一次，老子还能是一条好汉。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>第二封情书</title>
+      <link>https://example.org/blog/2015-2019/160522%E7%AC%AC%E4%BA%8C%E5%B0%81%E6%83%85%E4%B9%A6/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160522%E7%AC%AC%E4%BA%8C%E5%B0%81%E6%83%85%E4%B9%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>网络学习</title>
+      <link>https://example.org/blog/2015-2019/%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0.txt/</guid>
+      <description>&lt;p&gt;【干货】高效利用网络自我充电系列【一】
+不少人都有自我充电的想法，不少人都有自我充电的行动，但是能坚持的不多。没有足够的恒信和自律能力，完成&amp;quot;充电&amp;quot;将是极其困难的。即使对有强大自律能力、时间分配能力的人，这个任务也绝对不轻松。但这个有着另类艰苦的过程，也是绝对是一种特殊的生活体验，绝对Worth It。一旦你选择开始，并有所收益，相信你会慢慢爱上它。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>老炮</title>
+      <link>https://example.org/blog/2015-2019/%E8%AE%B2%E7%9C%9F%E7%9A%84%E8%80%81%E7%82%AE%E5%84%BF%E5%8F%98%E5%91%B3%E7%9A%84%E8%AF%84%E8%AE%BA.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E8%AE%B2%E7%9C%9F%E7%9A%84%E8%80%81%E7%82%AE%E5%84%BF%E5%8F%98%E5%91%B3%E7%9A%84%E8%AF%84%E8%AE%BA.txt/</guid>
+      <description>&lt;p&gt;　　讲真的&amp;quot;老炮儿&amp;quot;，变味的评论&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>自媒体泛滥之后--过度消费的信任</title>
+      <link>https://example.org/blog/2015-2019/160925%E8%87%AA%E5%AA%92%E4%BD%93%E6%B3%9B%E6%BB%A5%E4%BB%A5%E5%90%8E%E8%BF%87%E5%BA%A6%E6%B6%88%E8%B4%B9%E7%9A%84%E4%BF%A1%E4%BB%BB/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160925%E8%87%AA%E5%AA%92%E4%BD%93%E6%B3%9B%E6%BB%A5%E4%BB%A5%E5%90%8E%E8%BF%87%E5%BA%A6%E6%B6%88%E8%B4%B9%E7%9A%84%E4%BF%A1%E4%BB%BB/</guid>
+      <description>&lt;p&gt;在今年暑假的一篇文里，我曾提到自媒体泛滥的这个问题。时隔两个月后的今天，这个问题再一次暴露在网络大众面前。由此，笔者将于近日整理、撰写《自媒体泛滥之后》系列文章，供各位读者参考、思考。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>致讲真人</title>
+      <link>https://example.org/blog/2015-2019/%E8%87%B4%E8%AE%B2%E7%9C%9F%E4%BA%BA.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E8%87%B4%E8%AE%B2%E7%9C%9F%E4%BA%BA.txt/</guid>
+      <description>&lt;p&gt;写时评的，写网络评论的，说白了就是吐槽的，找骂的。不是每个写网络评论的人都能靠着文字吃饭。尤其是敢说真话的人，甚至会搞得吃不到饭。写的好未必有人夸，写的差就会有人骂；别人看了不满意也会骂，人家骂了你还不能还嘴；周遭知道的人满脸不屑，不以为然；还有种种待遇。这样的人除非找到同行，不然很难找到认同感。但这没什么。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>被营销时代</title>
+      <link>https://example.org/blog/2015-2019/%E6%88%91%E4%BB%AC%E9%83%BD%E5%9C%A8%E8%A2%AB%E8%90%A5%E9%94%80.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E6%88%91%E4%BB%AC%E9%83%BD%E5%9C%A8%E8%A2%AB%E8%90%A5%E9%94%80.txt/</guid>
+      <description>&lt;p&gt;我将2015年文稿的集子定名为《我不成熟》。我将用自己18岁出生牛犊的精神，用文字表达自己对事物的看法。我不成熟，无法做到全面而又深刻的洞察与分析，可我还是愿意以自己视角来解读生活，解读世界，也愿这个视角足够独特。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>远方</title>
+      <link>https://example.org/blog/2015-2019/%E8%BF%9C%E6%96%B9.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E8%BF%9C%E6%96%B9.txt/</guid>
+      <description>&lt;p&gt;可能终将不知那船驶向的是何方，却倔强的要远航。&lt;/p&gt;
+&lt;p&gt;走的太远，以至于忘记了为什么而出发。对。到底是要去哪里？不知道。只是想就那么走着。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>选择</title>
+      <link>https://example.org/blog/2015-2019/160911%E9%80%89%E6%8B%A9%E7%94%9F%E6%B4%BB%E4%B8%80%E7%A7%8D%E6%96%B9%E5%BC%8F/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160911%E9%80%89%E6%8B%A9%E7%94%9F%E6%B4%BB%E4%B8%80%E7%A7%8D%E6%96%B9%E5%BC%8F/</guid>
+      <description>&lt;p&gt;&amp;ldquo;这学期什么计划？&amp;rdquo;
+&amp;ldquo;多看书，学点技术，多写作。&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>郝连云召</title>
+      <link>https://example.org/blog/2015-2019/%E9%83%9D%E8%BF%9E%E4%BA%91%E5%8F%AC%E4%B9%8B%E8%B0%9C.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E9%83%9D%E8%BF%9E%E4%BA%91%E5%8F%AC%E4%B9%8B%E8%B0%9C.txt/</guid>
+      <description>&lt;p&gt;　　忽然想起来，自己现在的状态就如同《围城》里方鸿渐出任三闾大学时，途中所乘一辆饱经沧桑的汽车之窘态。坐在行李箱上，腿伸不开，腰直不起，只能反复重复两个姿势，左倾和右倾，以求得缓和僵板的姿势带来的不舒服。只不同的是，我却要比他多一种煎熬，那是心上的煎熬，太多的无奈。避之不去，挥笔为文，求得暂缓心情与身体之痛感。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>阅读，仅仅是看书吗</title>
+      <link>https://example.org/blog/2015-2019/160409%E9%98%85%E8%AF%BB-%E4%BB%85%E4%BB%85%E6%98%AF%E7%9C%8B%E4%B9%A6%E5%90%97/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160409%E9%98%85%E8%AF%BB-%E4%BB%85%E4%BB%85%E6%98%AF%E7%9C%8B%E4%B9%A6%E5%90%97/</guid>
+      <description>&lt;p&gt;　　阅读仅仅就是拿过来一本书，看看,仅此而已吗？&lt;/p&gt;
+&lt;p&gt;　　没那么简单。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>雅，俗，通俗</title>
+      <link>https://example.org/blog/2015-2019/%E9%9B%85%E4%BF%97%E9%80%9A%E4%BF%97.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E9%9B%85%E4%BF%97%E9%80%9A%E4%BF%97.txt/</guid>
+      <description>&lt;p&gt;　　貌似在我生活的范围内，阅读成了一件很流行的事。我看到很多人在读书，各种各样的书，在各种各样的时间。我有个习惯，看到别人在看什么的书的话，一定要瞥几眼，争取知道书名。可这个习惯也并不是总让我感到舒服。更多的时候我得到的书名要么是时下热销的那几个，要么就是一些标题新颖的。我不知道怎样形容后者，不过显然没有好的情感色彩。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>青春</title>
+      <link>https://example.org/blog/2015-2019/%E9%9D%92%E6%98%A5.txt/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E9%9D%92%E6%98%A5.txt/</guid>
+      <description>&lt;p&gt;眼下十点一刻不到，合上了这本爱到不行的书。再美，再感人，再怎么令自己感悟良多，也有看完的一天，少了心里的一番牵挂。至于反复翻看，直到页码不清封面破旧，怕是永远不会在我身上发生。日后也许会常去翻看，搜寻那么几句，不痛不痒却让人没办法拒绝接受的话，它们道出了青春，道出了痛苦，道出了成长。感谢易术，感谢你的《没有梦想，何必远方》。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>骑遇-杭行-绍兴一瞥 </title>
+      <link>https://example.org/blog/2015-2019/160517%E9%AA%91%E9%81%87%E8%AE%B0/</link>
+      <pubDate>Tue, 08 Sep 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/160517%E9%AA%91%E9%81%87%E8%AE%B0/</guid>
+      <description>&lt;p&gt;2014年6月5日，我高二的那年。乘着高三党就要忐忑地参加高考，给我们准高三党放假的空隙，开始了自己的第一次中程骑行&amp;ndash;从我所就读的城市到我自己的家。那是120里（这么说显得远）的公路加10里的乡道，是一段从初中起无数次乘坐班车走过的路线，烂熟于心。不过这一次，是一个人走，是骑行。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“超越，2014</title>
+      <link>https://example.org/blog/2015-2019/%E8%B6%85%E8%B6%8A2014/</link>
+      <pubDate>Thu, 01 Jan 2015 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E8%B6%85%E8%B6%8A2014/</guid>
+      <description>&lt;p&gt;How time flys ！&lt;/p&gt;
+&lt;p&gt;不得不用这样一句话作为开头，时间飞逝。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>me</title>
+      <link>https://example.org/blog/2015-2019/%E7%8B%AC%E7%89%B9%E7%9A%84%E4%BB%96%E4%BB%96%E7%9A%84%E7%8B%AC%E7%89%B9.txt/</link>
+      <pubDate>Mon, 08 Sep 2014 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E7%8B%AC%E7%89%B9%E7%9A%84%E4%BB%96%E4%BB%96%E7%9A%84%E7%8B%AC%E7%89%B9.txt/</guid>
+      <description>&lt;p&gt;　　形容他，只有两个字最贴切，独特。
+　　为了最好最真实的表现他，我决定引用他日志中的一些话，然后辅之以说明。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“随记</title>
+      <link>https://example.org/blog/2015-2019/%E8%87%AD%E6%98%BE%E6%91%86.txt/</link>
+      <pubDate>Sun, 08 Sep 2013 14:48:56 +0800</pubDate>
+      <guid>https://example.org/blog/2015-2019/%E8%87%AD%E6%98%BE%E6%91%86.txt/</guid>
+      <description>&lt;p&gt;　　风风火火忙活了八九天，总算是真的可以停下来，回过头看看眼下的一百天了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一个人的新年</title>
+      <link>https://example.org/blog/2019-2021/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%96%B0%E5%B9%B4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/blog/2019-2021/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%96%B0%E5%B9%B4/</guid>
+      <description>&lt;p&gt;机缘巧合，最终还是决定不回家了。这个年，自己在杭州过。&lt;/p&gt;
+&lt;p&gt;人生第一次在外过年，还是自己一个人过，想想还是有些刺激。对于习惯了孤独的我而言，这似乎算不得什么，反而是种解脱。少了很多琐事的牵绊，又能安静的享受近十天的假期，自己看看电视，做做饭，写写代码，更更博，也是满舒坦哈。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
